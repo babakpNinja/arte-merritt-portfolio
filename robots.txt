@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arte-merritt-portfolio.up.railway.app/sitemap.xml
