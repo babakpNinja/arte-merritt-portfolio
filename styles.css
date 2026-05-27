@@ -129,3 +129,7 @@ footer p{margin-bottom:8px}
   .manifesto__quote{padding-left:20px;font-size:1.5rem}
   .manifesto__attrib{padding-left:20px}
 }
+
+/* CV download button — primary CTA */
+.hero__cta--primary{background:var(--electric,#3b82f6);color:#fff !important;padding:8px 16px;border-radius:4px;font-weight:600;border:1px solid var(--electric,#3b82f6);transition:all .15s}
+.hero__cta--primary:hover{background:#2563eb;border-color:#2563eb}
